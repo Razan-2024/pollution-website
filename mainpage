@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Informations About Pollution </title>
+    <link rel="stylesheet" href="mainpage.css">
+</head>
+
+<body>
+    <center>
+        <div class="text">
+            <h1> Welcome to Our Planet!</h1>
+        </div>
+    </center>
+    <div class="fact-box">
+        <h2> Let’s Fight Pollution Together!</h2>
+        <p>Pollution is harming our Earth every single day — from the air<br> we breathe to the oceans we swim in.
+            This website is a wake-up call to all of us. It’s time to understand the problem and become part
+            of the solution.<br>
+            Together, we can protect our planet. 💚
+        </p>
+        <center><img src="factory-producing-co2-pollution.jpg" class="img" alt="Pollution"></center>
+        <button class="btn"><a href="https://www.theguardian.com/uk/environment">Source</a></button>
+    </div>
+
+    <div class="fact-box">
+        <h2> 💥 What Are the Main Types of Pollution?</h2>
+        <dl>
+            <dt> Air Pollution</dt>
+            <dd> When harmful gases and smoke enter the air, it becomes hard to breathe.
+                Cars, factories, and burning trash cause this.</dd>
+
+            <dt>Water Pollution</dt>
+            <dd> Plastic, oil, and chemicals dumped in rivers and
+                oceans kill marine life and make water unsafe to drink.</dd>
+            <dt> Plastic Pollution</dt>
+            <dd> Single-use plastics like bottles and bags stay
+                in the environment for hundreds of years. Animals often eat them and die..</dd>
+
+        </dl>
+
+        <img src="WhatsApp Image 2025-07-24 at 1.57.36 PM.jpeg" class="img" alt="air Pollution">
+        <img src="w.jpeg" class="img" alt="water Pollution">
+        <img src="p.jpeg" class="img" alt="plastic Pollution">
+        <button class="btn"><a href="https://www.unep.org">Source</a></button>
+    </div>
+
+    <div class="fact-box">
+        <h2> 🔥 What’s Causing Pollution — and What’s the Cost?</h2>
+        <h2>Main Causes:</h2>
+        <ul>
+            <li>Factories releasing toxic gases</li>
+            <li>Cars and buses burning fuel</li>
+            <li>Throwing trash in nature</li>
+            <li>Using too much plastic</li>
+            <li>Cutting down forests</li>
+        </ul>
+
+        <h2>Main Effects:</h2>
+        <ul>
+            <li>Global warming and climate change</li>
+            <li>Sick animals and dying plants</li>
+            <li>Dirty water and food</li>
+            <li>Breathing problems in humans</li>
+            <li>Extreme weather (heatwaves, floods)</li>
+        </ul>
+
+        <a href="https://climatekids.nasa.gov">Source</a>
+    </div>
+    <div class="fact-box">
+        <h2>  🌟 Be Part of the Solution, Not the Pollution!</h2>
+        <h2>Simple Actions You Can Take:</h2>
+        <ol>
+            <li>Reduce, Reuse, Recycle ♻️</li>
+            <li>Say no to plastic bags</li>
+            <li>Walk or bike instead of using a car</li>
+            <li>Plant trees and care for plants</li>
+            <li>Join or start a clean-up team</li>
+        </ol>
+
+        <a href="https://www.who.int/health-topics/air-pollution">Source</a>
+    </div>
+    <div class="fact-box">
+        <h2>  📬 Contact Us / Join Us</h2>
+        <h2> 📣 Let’s Work Together!</h2>
+        <h3> Do you have ideas, art, or stories about saving the Earth?<br>
+             Want to start a local clean-up with us? Get in touch!</h3>
+        <button class="btn"><a href="form.html">Register now</a></button>
+
+        
+    </div>
+
+</body>
+
+</html>
